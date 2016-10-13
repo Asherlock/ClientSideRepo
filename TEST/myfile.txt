@@ -1,1 +1,2 @@
-this is a text file
+this is a text file. Changes to the end of the file.
+This is a new line.
